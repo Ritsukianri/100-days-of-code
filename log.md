@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Sunday 20 September, 2026:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Today's Progress: I learn basic HTML like tags, attribute, use of meta tags, use of div, HTML Entity, and do some workshop task in FreeCodeCamp
+Thought's: Basically HTML Consist of tags inside of tags in inside of anothe tags
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: Monday 21 September, 2026:
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Today's Progress: Today i learn about SEO, aduio/video and opengraph
+- "src" for source of the audio/video
+- "control" to enable audio/vide0 player on the page
+- "loop" to make audio/video replay continuosly
+- "muted" to make audio/video start in muted state
+- "source" is not attribute. Its another tag for using multiple type of file for audio/video
+- "poster" is to display an image while the video is downloading. Only available on video tag
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
